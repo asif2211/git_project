@@ -1,3 +1,3 @@
 class Display :
     def get_date(self):
-        print('hello')
+        return "HELLO THIS IS DIPALY DATA"
