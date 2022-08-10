@@ -6,3 +6,5 @@ class GetUserData:
     def get_data(self):
         print('data')
 
+    def new_branch_code(self):
+        print('for new branch')
