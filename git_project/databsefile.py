@@ -4,3 +4,5 @@ class Database:
 
     def remove_data(self):
         print('remove data')
+
+        print('this is data base')
